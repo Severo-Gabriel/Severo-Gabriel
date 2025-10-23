@@ -17,11 +17,6 @@ Atualmente estudo **Desenvolvimento Web com foco em PHP, HTML, CSS e JavaScript*
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielsevero&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsevero&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 
 ---
 
