@@ -17,9 +17,6 @@ Atualmente estudo **Desenvolvimento Web com foco em PHP, HTML, CSS e JavaScript*
 
 ---
 
-
----
-
 ## 🌐 Contato
 📍 **Brasil**  
 ✉️ [severogsp@gmail.com](mailto:severogsp@gmail.com)  
